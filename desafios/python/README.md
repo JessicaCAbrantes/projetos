@@ -29,7 +29,7 @@ Lista com os links organizados:
             </tr>
             <tr>
                 <td>Hello World!</td>
-                <td><a href="https://github.com/JessicaCAbrantes/projetos/tree/main/desafios/python/beginner/helloworld">Código</a></td>
+                <td><a href="https://github.com/JessicaCAbrantes/projetos/tree/main/desafios/python/beecrowd/beginner/helloworld">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
