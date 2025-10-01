@@ -3,7 +3,7 @@
 
 <!--Banner session-->
 <p align="center">
-  <img src="./assets/banner.png" alt="DIO" tittle="Digital Innovation One">
+  <img src="./assets/banner.png" alt="D" tittle="Digital Innovation One">
 </p>
  
 Lista com os links organizados:
