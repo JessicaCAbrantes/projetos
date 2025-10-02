@@ -19,6 +19,41 @@ Clique no logotipo da linguagem ou na lista abaixo para conferir soluções:
 </p><br>
 
 
+<!-- JavaScript -->
+<details>
+    <summary><strong>JavaScript</strong></summary>
+    <br />
+    <div align="left">
+        <!-- Desafios Lógica de programação com JavaScript -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript">Lógica de programação: mergulhe em programação com JavaScript</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">Desafios Lógica de programação com JavaScript</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td> Iniciando com JavaScript</td>
+                <td><a href="https://github.com/JessicaCAbrantes/projetos/blob/main/desafios/javascript/logicadeprogramacao/README.md">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Número Primo</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Python/Desafios%20Finais%20Python%20-%20Cognizant%20Data%20Cloud%20Engineer%20%232/N%C3%BAmero%20Primo">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Preenchimento de Vetor I</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Python/Desafios%20Finais%20Python%20-%20Cognizant%20Data%20Cloud%20Engineer%20%232/Preenchimento%20de%20Vetor%20I">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>                
+        </table>   
+    </details>
 
 <!-- Python -->
 <details>
@@ -54,6 +89,7 @@ Clique no logotipo da linguagem ou na lista abaixo para conferir soluções:
                 <td align="center">✔️</td>
             </tr>                
         </table>   
+      
         <!-- Desafios Iniciais em Python - Cognizant Data Cloud Engineer 2 -->
         <table border=1>
             <tr>
