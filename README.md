@@ -18,7 +18,47 @@ Clique no logotipo da linguagem ou na lista abaixo para conferir soluções:
   
 </p><br>
 
+<h2> Melhores Projetos</h2>
 
+
+
+<h2> Projetos</h2>
+
+<!-- JavaScript -->
+<details>
+    <summary><strong>JavaScript</strong></summary>
+    <br />
+    <div align="left">
+        <!-- Projetos com JavaScript -->
+        <table border=1>
+            <tr>
+                <th colspan="3"> Projetos com JavaScript </th>
+            </tr>
+            <tr>
+                <th>Projetos</th>
+                <th>Links</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Jogo do Número Secreto</td>
+                <td><a href="https://github.com/JessicaCAbrantes/secret-number-game">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Número Primo</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Python/Desafios%20Finais%20Python%20-%20Cognizant%20Data%20Cloud%20Engineer%20%232/N%C3%BAmero%20Primo">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Preenchimento de Vetor I</td>
+                <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Python/Desafios%20Finais%20Python%20-%20Cognizant%20Data%20Cloud%20Engineer%20%232/Preenchimento%20de%20Vetor%20I">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>                
+        </table>   
+    </details>
+
+
+<h2> Desafios</h2>
 <!-- JavaScript -->
 <details>
     <summary><strong>JavaScript</strong></summary>
