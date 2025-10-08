@@ -314,67 +314,10 @@ Clique no logotipo da linguagem ou na lista abaixo para conferir soluções:
 
 
 
-## Solução de Desafio C# 
+## README em Manutenção
 
-[Link original](https://web.dio.me/articles/entendendo-o-codigo-solucao-do-desafio-c-multiplos?back=%2Fhome&page=1&order=oldest)
-
-Vamos receber os dados:
-
-```bash
-using System;
-class minhaClasse {
-       static void Main(string[] args) {
-           //continue a solucao com a insercao da variavel corretamente
-
-           string[] valores = Console.ReadLine().Split(' ');
-           int A = int.Parse(valores[0]);
-           int B = int.Parse(valores[1]);
-       }
-    } 
-```
-         
-- Na linha 6, temos o Console.ReadLine() lendo os dados e o Split(' ') separando esses dados por um espaço. Isso está sendo atribuído a variável valores que é um array.
-- Na linha 7, estou selecionando o índice 0 do array. Dentro dele está o 1º item desse array, que é do tipo string. Para poder trabalhar com ele como se fosse um número, preciso convertê-lo. É isso que o int.Parse() está fazendo. Esse dado, já devidamente convertido, está sendo atribuído a variável A.
-- Na linha 8, está acontecendo a mesma coisa. A diferença é que estou acessando o índice 1, que contém o 2º item do array.
-
-Agora é preciso pensar no problema em si. Como que eu sei que 2 números são ou não são múltiplos um do outro? Como a tabuada é o exemplo clássico dos múltiplos, vamos olhar para ela:
-
-- Tabuada de 2:
-- 2x1 = 2 // 2x2 = 4 // 2x3 = 6 // 2x4 = 8 // 2x5 = 10
-- Conjunto dos Múltiplos de 2 = {2, 4, 6, 8, 10, ...}
-
-Então se observa que os múltiplos de um número são divisíveis por esse número, então o resto dessa divisão será 0.
-
-- 2 / (qualquer múltiplo de 2) = (a um número natural) => Resto será 0
-- 2 / 2 = 1 => resto 0
-- 2 / 4 = 2 => resto 0
-- 2 / 6 = 3 => resto 0
-
-Para resolver isso, vou adicionar o operador lógico ou (||) dentro do meu if.
-
-```bash
-using System;
-class minhaClasse {
-       static void Main(string[] args) {
-           //continue a solucao com a insercao da variavel corretamente
-
-           string[] valores = Console.ReadLine().Split(' ');
-           int A = int.Parse(valores[0]);
-           int B = int.Parse(valores[1]);
-
-           if (A % B  == 0 || B % A == 0) {
-               Console.WriteLine("Sao Multiplos");
-           }
-           else {
-                Console.WriteLine("Nao sao Multiplos");
-            }
-        }
- }
-```
-
-Na linha 10, ele vai ver se o resto da divisão entre A e B é igual a 0 OU se o resto da divisão entre B e A é igual a 0. Se qualquer uma dessas condições for verdadeira, o if será verdadeiro e ele irá executar o que está dentro das { }
-
-Pronto, agora o código vai passar em todos os testes de saída.
+README.md que conterá todos os desafios, projetos e etc feito nesse github. 
+Esté arquivo está em fase de criação e manutenção...
 
 ## Leitura Extra
 
@@ -382,9 +325,6 @@ Pronto, agora o código vai passar em todos os testes de saída.
 - [Desafios de Código, o Guia Definitivo](https://web.dio.me/articles/desafios-de-codigo-o-guia-definitivo?back=%2Fhome&page=1&order=oldest)
 - [XENLONGUINHO & XENLONGÃO](https://web.dio.me/articles/xenlonguinho-xenlongao-insight?back=%2Fhome&page=1&order=oldest)
 
-## Clean Code e Refactoring
-
--...
 
 ## 🐛 Issues
 
