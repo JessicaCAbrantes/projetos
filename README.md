@@ -97,8 +97,48 @@ Clique no logotipo da linguagem ou na lista abaixo para conferir soluções:
                 <td><a href="https://github.com/JessicaCAbrantes/projetos/blob/main/desafios/javascript/logicadeprogramacao4/README.md">Código</a></td>
                 <td align="center">✔️</td>
             </tr>  
+        </table>
+
+
+<summary><strong>JavaScript</strong></summary>
+    <br />
+    <div align="left">
+        <!-- Desafios Lógica de programação -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://cursos.alura.com.br/course/logica-programacao-funcoes-listas">Lógica de programação: explore funções e listas</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">Desafios Lógica de programação</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td> Lógica de Programação V</td>
+                <td><a href="https://github.com/JessicaCAbrantes/projetos/blob/main/desafios/javascript/logicadeprogramacao5/README.md">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Lógica de Programação VI</td>
+                <td><a href="https://github.com/JessicaCAbrantes/projetos/blob/main/desafios/javascript/logicadeprogramacao2/README.md">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Lógica de Programação VII</td>
+                <td><a href="https://github.com/JessicaCAbrantes/projetos/blob/main/desafios/javascript/logicadeprogramacao3/README.md">Código</a></td>
+                <td align="center">✔️</td>
+            </tr> 
+            <tr>
+                <td>Lógica de Programação VIII</td>
+                <td><a href="https://github.com/JessicaCAbrantes/projetos/blob/main/desafios/javascript/logicadeprogramacao4/README.md">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>  
         </table>   
-    </details>
+
+</details>
 
 <!-- Python -->
 <details>
