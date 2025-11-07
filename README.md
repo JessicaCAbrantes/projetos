@@ -88,10 +88,15 @@ Clique no logotipo da linguagem ou na lista abaixo para conferir soluções:
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td>Preenchimento de Vetor I</td>
+                <td>Lógica de Programação III</td>
+                <td><a href="https://github.com/JessicaCAbrantes/projetos/blob/main/desafios/javascript/logicadeprogramacao3/README.md">Código</a></td>
+                <td align="center">✔️</td>
+            </tr> 
+            <tr>
+                <td>Lógica de Programação IV</td>
                 <td><a href="https://github.com/shyoutarou/desafios-DIO/tree/master/Desafios/Python/Desafios%20Finais%20Python%20-%20Cognizant%20Data%20Cloud%20Engineer%20%232/Preenchimento%20de%20Vetor%20I">Código</a></td>
                 <td align="center">✔️</td>
-            </tr>                
+            </tr>  
         </table>   
     </details>
 
