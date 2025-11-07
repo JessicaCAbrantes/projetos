@@ -1,4 +1,4 @@
-/*  Desafios Iniciando com JavaScript + Respostas */
+/*  Desafios I + Respostas */
 
 //1. Mostre um alerta com a mensagem "Bem-vindo ao nosso site!".
 
