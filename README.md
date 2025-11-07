@@ -99,9 +99,6 @@ Clique no logotipo da linguagem ou na lista abaixo para conferir soluções:
             </tr>  
         </table>
 
-
-<summary><strong>JavaScript</strong></summary>
-    <br />
     <div align="left">
         <!-- Desafios Lógica de programação -->
         <table border=1>
