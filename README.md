@@ -99,9 +99,8 @@ Clique no logotipo da linguagem ou na lista abaixo para conferir soluções:
             </tr>  
         </table>
 
-    <div align="left">
-        <!-- Desafios Lógica de programação -->
-        <table border=1>
+<!-- Desafios Lógica de programação -->
+<table border=1>
             <tr>
                 <th colspan="3"><a href="https://cursos.alura.com.br/course/logica-programacao-funcoes-listas">Lógica de programação: explore funções e listas</a></th>
             </tr>
@@ -133,7 +132,7 @@ Clique no logotipo da linguagem ou na lista abaixo para conferir soluções:
                 <td><a href="https://github.com/JessicaCAbrantes/projetos/blob/main/desafios/javascript/logicadeprogramacao4/README.md">Código</a></td>
                 <td align="center">✔️</td>
             </tr>  
-        </table>   
+</table>   
 
 </details>
 
