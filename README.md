@@ -67,10 +67,10 @@ Clique no logotipo da linguagem ou na lista abaixo para conferir soluções:
         <!-- Desafios Lógica de programação com JavaScript -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript">Lógica de programação: mergulhe em programação com JavaScript</a></th>
+                <th colspan="3"><a href="https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript">Lógica de Programação: mergulhe em programação com JavaScript</a></th>
             </tr>
             <tr>
-                <th colspan="3">Desafios Lógica de programação com JavaScript</th>
+                <th colspan="3">Desafios Lógica de Programação com JavaScript</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -99,13 +99,13 @@ Clique no logotipo da linguagem ou na lista abaixo para conferir soluções:
             </tr>  
         </table>
 
-<!-- Desafios Lógica de programação -->
+<!-- Desafios Lógica de Programação -->
 <table border=1>
             <tr>
                 <th colspan="3"><a href="https://cursos.alura.com.br/course/logica-programacao-funcoes-listas">Lógica de programação: explore funções e listas</a></th>
             </tr>
             <tr>
-                <th colspan="3">Desafios Lógica de programação</th>
+                <th colspan="3">Desafios Lógica de Programação</th>
             </tr>
             <tr>
                 <th>Desafio</th>
